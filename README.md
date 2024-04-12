@@ -1,2 +1,1 @@
-# network-file-system
-This system comprises three major components: Clients, Naming Server, and Storage Servers, each playing a vital role in facilitating efficient file management and access within a network environment.
+Course project for OSN Monsoon 2023 by Team 50 (Jayesh Sutar 2022101001, Divyansh Jain 2022101125, Mohammed Faisal 2022101101).
